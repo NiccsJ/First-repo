@@ -2,5 +2,5 @@
 First repository 
 
 
-Well, fuck this shit.
-I'm done.
+Created a Repository.
+  This is a .md file.
