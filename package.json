@@ -1,0 +1,27 @@
+{
+  "name": "first-repo",
+  "version": "1.0.0",
+  "description": "First repository",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "eslint": "^5.14.0",
+    "mocha": "5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiccsJ/First-repo.git"
+  },
+  "author": "Nipun Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiccsJ/First-repo/issues"
+  },
+  "homepage": "https://github.com/NiccsJ/First-repo#readme"
+}
