@@ -16,7 +16,7 @@
 },
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Example Application. No test specified. Proceeding with Passed result.\" && exit 0"
   },
   "repository": {
     "type": "git",
