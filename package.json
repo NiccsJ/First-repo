@@ -10,7 +10,10 @@
     "eslint": "^5.14.0",
     "mocha": "5.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "mocha": "5.0.1"
+},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
